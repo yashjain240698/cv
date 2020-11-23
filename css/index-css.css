@@ -1,0 +1,62 @@
+body{
+  background-color: #e8ffff;
+}
+
+h1{
+  color: #16a596;
+}
+
+h2{
+  color: #41aea9;
+  margin-left: 10%;
+}
+
+li{
+  list-style-type: square;
+  margin-left: 15%;
+}
+
+p{
+  color: #03c4a1;
+}
+
+.D{
+  color: #01c5c4;
+}
+
+i{
+  color: #16a596;
+}
+
+.lang{
+  color: #28df99;
+}
+
+.Pro{
+    margin-left: 10%;
+    color: #01c5c4;
+}
+
+.head1{
+  color: #01c5c4;
+  font-size: 2em;
+  padding-left: 7%;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 7px;
+  color: #28abb9;
+  height : 5px;
+  width : 5%;
+}
+
+img{
+  height: 200px ;
+  width: 200px;
+}
+
+table{
+  border-spacing: 30px;
+  margin-left: 100px;
+  padding-left: 5%;
+}
